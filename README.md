@@ -6,22 +6,27 @@
 
 현재 대학교 휴학중이며 모든 시간을 투자하여 끈질기게 노력할수 있어요.
 
- <a href="클릭시 이동할 링크" target="_blank">
+
+
+
+
+### Languages
+
  <img src="https://img.shields.io/badge/SpringBoot-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Spring-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Java-yellow?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Thymeleaf-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JPA-blue?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+
+ 
 
 
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
+### Projects
 
-**Ochangmin524/Ochangmin524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|Project|내용|설명|
+|------|---|---|
+|[item-service](https://github.com/Ochangmin524/item-serivce)|ddd|dddd|
+|[JPAshop](https://github.com/Ochangmin524/JPAshop)|ddd|dddd|
+|[myShopProject](https://github.com/Ochangmin524/myShopProject)|ddd|dddd|
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
