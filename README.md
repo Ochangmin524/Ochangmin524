@@ -25,8 +25,8 @@
 
 |Project|내용|설명|
 |------|---|---|
-|[item-service](https://github.com/Ochangmin524/item-serivce)|ddd|dddd|
-|[JPAshop](https://github.com/Ochangmin524/JPAshop)|ddd|dddd|
-|[myShopProject](https://github.com/Ochangmin524/myShopProject)|ddd|dddd|
+|[item-service](https://github.com/Ochangmin524/item-serivce)|인프런 김영한 강사님의 프로젝트 클론코딩|
+|[JPAshop](https://github.com/Ochangmin524/JPAshop)|인프런 김영한 강사님의 프로젝트 클론코딩|
+|[myShopProject](https://github.com/Ochangmin524/myShopProject)|item-service, JPAshop 프로젝트를 이용하여 발전시킨 프로젝트|
 
 
